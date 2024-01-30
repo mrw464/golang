@@ -22,3 +22,5 @@ go.work
 
 # ignore my 7zip backup
 *.7z
+
+.DS_STORE
